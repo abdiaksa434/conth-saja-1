@@ -3,4 +3,4 @@
   ~dan juga bisa mempelajari framework javascript
 
 
-- my favorite framework javascript
+- kesukaan framework javascript
