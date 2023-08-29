@@ -1,0 +1,3 @@
+-beberapa resolusi untuk 5 tahun ini 
+  ~semoga bisa membuat website utuh dengan framework javascript
+  ~dan juga bisa mempelajari framework javascript
